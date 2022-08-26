@@ -1,4 +1,4 @@
-Final_project.py can be run directly without any prior step.
+Spell_checker.py can be run directly without any prior step.
 
 Spell_checker GUI.py on the other hand need to change the directory first on line 22.
 
